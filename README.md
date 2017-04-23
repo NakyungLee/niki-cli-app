@@ -8,8 +8,8 @@ Type the below and follow the on screen prompts.
 
 
 
-#Contributing
+# Contributing
 Please contribute [my repo](https://github.com/NakyungLee/niki-cli-app).
 
-#License
+# License
 The gem is available as open source.
